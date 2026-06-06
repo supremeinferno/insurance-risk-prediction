@@ -290,7 +290,7 @@ if predict:
 # ==================================================
 
 st.divider()
-st.caption("Built with ❤️ using Streamlit · Scikit-Learn · XGBoost &nbsp;|&nbsp; InsureIQ by SupremeInferno")
+st.caption("Developed using Streamlit · Scikit-Learn · XGBoost | InsureIQ by SupremeInferno")
 
 
 
