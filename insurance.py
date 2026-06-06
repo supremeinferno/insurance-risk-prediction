@@ -193,27 +193,27 @@ st.divider()
 
 if bmi < 18.5:
     bmi_category = "🔵 Underweight"
-    bmi_color    = "blue"
 elif bmi < 25:
     bmi_category = "🟢 Normal Weight"
-    bmi_color    = "green"
 elif bmi < 30:
     bmi_category = "🟡 Overweight"
-    bmi_color    = "orange"
 else:
     bmi_category = "🟠 Obese"
-    bmi_color    = "red"
 
 bmi_col1, bmi_col2, bmi_col3, bmi_col4 = st.columns(4)
 
 with bmi_col1:
-    st.metric("BMI Category", bmi_category)
+    st.caption("BMI Category")
+    st.subheader(bmi_category)
 with bmi_col2:
-    st.metric("BMI Value", f"{bmi:.1f}")
+    st.caption("BMI Value")
+    st.subheader(f"{bmi:.1f}")
 with bmi_col3:
-    st.metric("Age", f"{age} yrs")
+    st.caption("Age")
+    st.subheader(f"{age} yrs")
 with bmi_col4:
-    st.metric("Smoker", smoker)
+    st.caption("Smoker")
+    st.subheader(smoker)
 
 st.divider()
 
