@@ -42,13 +42,13 @@ The application helps users understand how factors such as age, BMI, smoking hab
 ### 🏠 Dashboard
 
 <p align="center">
-  <img src="assets/home.png" width="900">
+  <img src="assets/Screenshot1.png" width="900">
 </p>
 
 ### 📊 Prediction Results
 
 <p align="center">
-  <img src="assets/prediction.png" width="900">
+  <img src="assets/Screenshot2.png" width="900">
 </p>
 
 ---
