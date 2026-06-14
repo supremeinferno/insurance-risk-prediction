@@ -17,7 +17,7 @@
 
 ---
 
-## 🚀 Live Demo
+## Live Demo
 
 🌐 **Try the application here:**
 
@@ -37,15 +37,15 @@ The application helps users understand how factors such as age, BMI, smoking hab
 
 ---
 
-## 📸 Application Preview
+## Application Preview
 
-### 🏠 Dashboard
+### Dashboard
 
 <p align="center">
   <img src="assets/Screenshot1.png" width="900">
 </p>
 
-### 📊 Prediction Results
+### Prediction Results
 
 <p align="center">
   <img src="assets/Screenshot2.png" width="900">
@@ -53,31 +53,31 @@ The application helps users understand how factors such as age, BMI, smoking hab
 
 ---
 
-## ✨ Features
+## Features
 
-✅ Medical Insurance Cost Prediction
+Medical Insurance Cost Prediction
 
-✅ AI-Powered Risk Assessment
+AI-Powered Risk Assessment
 
-✅ XGBoost Regression Model
+XGBoost Regression Model
 
-✅ Hyperparameter Optimization using GridSearchCV
+Hyperparameter Optimization using GridSearchCV
 
-✅ Real-Time Predictions
+Real-Time Predictions
 
-✅ Interactive Streamlit Dashboard
+Interactive Streamlit Dashboard
 
-✅ BMI Category Analysis
+BMI Category Analysis
 
-✅ Insurance Cost Insights
+Insurance Cost Insights
 
-✅ Modern Dark-Themed User Interface
+Modern Dark-Themed User Interface
 
-✅ Responsive User Experience
+Responsive User Experience
 
 ---
 
-## 📊 Dataset Information
+## Dataset Information
 
 The model was trained on a medical insurance dataset containing:
 
@@ -87,7 +87,7 @@ The model was trained on a medical insurance dataset containing:
 | Features        | 6       |
 | Target Variable | Charges |
 
-### 📋 Features Used
+### Features Used
 
 * Age
 * Gender
@@ -96,13 +96,13 @@ The model was trained on a medical insurance dataset containing:
 * Smoking Status
 * Region
 
-### 🎯 Target Variable
+### Target Variable
 
 * Insurance Charges
 
 ---
 
-## 🧹 Data Preprocessing
+## Data Preprocessing
 
 The following preprocessing pipeline was implemented:
 
@@ -127,7 +127,7 @@ Multiple regression algorithms were tested:
 
 ---
 
-## 🏆 Final Model
+## Final Model
 
 The deployed application uses:
 
@@ -147,7 +147,7 @@ XGBoost was selected because it:
 
 ---
 
-## ⚙️ Hyperparameter Optimization
+## Hyperparameter Optimization
 
 GridSearchCV was used to identify the best model configuration.
 
@@ -171,7 +171,7 @@ GridSearchCV was used to identify the best model configuration.
 
 ---
 
-## ⚙️ Technology Stack
+## Technology Stack
 
 ### Programming Language
 
@@ -191,7 +191,7 @@ GridSearchCV was used to identify the best model configuration.
 
 ---
 
-## 🔄 Machine Learning Workflow
+## Machine Learning Workflow
 
 ```text
 Dataset
@@ -217,7 +217,7 @@ Streamlit Deployment
 
 ---
 
-## 📈 Prediction Factors
+## Prediction Factors
 
 The estimated insurance charges are influenced by:
 
@@ -253,7 +253,7 @@ insurance-risk-prediction/
 
 ---
 
-## 🚀 Installation
+## Installation
 
 ### Clone Repository
 
@@ -281,7 +281,7 @@ streamlit run insurance.py
 
 ---
 
-## 🔮 Future Improvements
+## Future Improvements
 
 * SHAP Explainability Integration
 * Insurance Cost Breakdown Analysis
