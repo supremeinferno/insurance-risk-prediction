@@ -299,6 +299,6 @@ streamlit run insurance.py
 
 Passionate about:
 
-* Machine Learning
+* Machine Learning • Computer Vision • Deep Learning • Agentic AI
 
 🔗 GitHub: https://github.com/supremeinferno
